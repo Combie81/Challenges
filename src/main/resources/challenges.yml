@@ -1,8 +1,9 @@
 ##########################################################################################
 # Example challenges.yml file. This is the same format as ASkyBlock.
 # Use the cimport command to import the challenges to your world.
-# For example: /bsbadmin cimport
-# to overwrite previous challenges, use /bsbadmin cimport overwrite
+# For example: /bsb challenges import  In console use: bsb challenges import
+# to overwrite previous challenges, use /bsb challenges import overwrite
+# In console use: bsb challenges import overwrite
 # Once challenges are imported, you can edit them directly in the database folder.
 # BSkyBlock offers more features in the native challenge definition files.
 #
